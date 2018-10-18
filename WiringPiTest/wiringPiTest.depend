@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1539887351 source:/home/pi/Leighton/wiringPiTest/main.cpp
+	<iostream>
+	<wiringPi.h>
+	<wiringPiSPI.h>
+	<mcp3004.h>
+
+1539399909 /home/pi/wiringPi/wiringPi/wiringPi.h
+
+1539399909 /home/pi/wiringPi/wiringPi/wiringPiSPI.h
+
+1539399909 /home/pi/wiringPi/wiringPi/mcp3004.h
+
